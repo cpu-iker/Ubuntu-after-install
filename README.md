@@ -1,2 +1,2 @@
-# Ubuntu-despu-s-de-instalaci-n
+# Ubuntu after install
 Guía de setup de Ubuntu al finalizar la instalación.
