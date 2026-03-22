@@ -56,7 +56,15 @@ sudo ufw enable
 
 ## 3. Software esencial
 
+balenaEtcher para hacer usb's bootables, el disks no me funcionó.
 
+instalar curl
+
+antivirus ClamAV
+
+veracrypt para cifrar
+
+instalar pip pip3 o pipx
 
 ## 4. Herramientas de desarrollo
 
