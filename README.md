@@ -77,7 +77,11 @@ Virtualbox de su página oficial
 sudo apt install docker.io -y
 sudo systemctl enable docker
 ``` 
-
+Pro tip:
+```bash
+# Añadiendo esto no necesitas usar siempre sudo
+sudo usermod -aG docker $USER
+```
 ## 6. Gestion de paquetes
 
 ## 7. Personalizacion del sistema
@@ -99,7 +103,7 @@ sudo apt autoclean
 ```
 ### Servicios innecesarios
 
-## 9. Gestión de energia (para portatiles)
+## 9. Gestion de energia (para portatiles)
 
 > Tip: Usa temas oscuros para ahorrar batería en portátiles.
 
