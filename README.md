@@ -20,13 +20,13 @@ Esto es una guía con programas que instalar, configuraciones, wallpapers, enlac
 - [11. Automatización y scripts](#11-automatizacion-y-scripts)
 - [12. Consejos y trucos](#12-consejos-y-trucos)
 
-## 1. Preparación inicial
+## 1. Preparacion inicial
 Antes de tocar algo en el sistema, siempre es buena idea actualizar los repositorios.
 
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
-## 2. Seguridad básica
+## 2. Seguridad basica
 
 ### Firewall (ufw)
 
@@ -42,13 +42,13 @@ sudo apt update && sudo apt upgrade -y
 
 
 
-## 5. Virtualización y contenedores
+## 5. Virtualizacion y contenedores
 
 virtual box y docker
 
-## 6. Gestión de paquetes
+## 6. Gestion de paquetes
 
-## 7. Personalización del sistema
+## 7. Personalizacion del sistema
 
 ### Temas
 
@@ -58,17 +58,17 @@ virtual box y docker
 
 ### Wallpapers
 
-## 8. Optimización y rendimiento
+## 8. Optimizacion y rendimiento
 
 ### Limpieza del sistema
 
 ### Servicios innecesarios
 
-## 9. Gestión de energía (para portátiles)
+## 9. Gestión de energia (para portatiles)
 
 ## 10. Gaming
 
-### Drivers gráficos
+### Drivers graficos
 
 ### Steam / Proton
 
@@ -76,12 +76,14 @@ virtual box y docker
 
 
 
-## 12. Automatización y scripts
+## 12. Automatizacion y scripts
 
 
 
 ## 13. Consejos y trucos
 
-## 14. Solución de problemas
+## 14. Solucion de problemas
 
+## Contribuciones
 
+Todas las contribuciones para mejorar esta guía son bienvenidas. Abre un issue o pull request.
